@@ -82,7 +82,7 @@ public final class ComputerCraft
     public static double monitorDistanceSq = 4096;
     public static long monitorBandwidth = 1_000_000;
 
-    public static boolean turtlesNeedFuel = true;
+    public static boolean turtlesNeedFuel = false;
     public static int turtleFuelLimit = 20000;
     public static int advancedTurtleFuelLimit = 100000;
     public static boolean turtlesObeyBlockProtection = true;
